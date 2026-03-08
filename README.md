@@ -1,4 +1,4 @@
-# Hi there 👋 I’m **Bibisha B**
+# Hi there 👋 I’m **Bibisha**
 ### Backend-focused Full-Stack Developer
 
 ## About Me
