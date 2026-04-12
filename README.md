@@ -3,7 +3,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on real-time systems and backend-heavy applications and learning advanced system design and scalable architecture patterns, while also exploring machine learning concepts
+- 🔭 I’m currently working on real-time systems, backend-heavy applications, learning advanced system design and scalable architecture patterns, while also exploring machine learning concepts
 - 📫 How to reach me: **bibisha2006z@gmail.com**
 - ⚡ Fun fact: I trust my logs more than people.
 
